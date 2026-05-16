@@ -1,0 +1,6 @@
+{
+  "name": "Detective Pedro: Mystery",
+  "description": "Բացահայտիր իսպաներենի խորհրդավոր բառերը (Algo, Nada, Alguien, Nadie...) դետեկտիվ Պեդրոյի հետ: 15 մակարդակ և խորացված թեորիա:",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
